@@ -1,23 +1,34 @@
 # List of Certifications
-## [Python](#py)
-* [Python](#Python)
+## [Python](#python)
+* [Python](#py)
+## [Java](#java)
+* [Java](#jav)
+## [C++](#c++)
+* [C++](#cp)
+## [JavaScript](#javascript)
+* [JavaScript](#js)
+## [Dart](#dart)
+* [Dart](#d)
+## [Data Analysis](#data-analysis)
+* [Data Analysis](#da)
+## [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
+* [Machine Learning](#machine-learning)
+## [Linux](#linux)
+* [Linux](#l)
+
+
+## Python
+
 ## Java
-* [Java](#Java)
-## C++
-* [C++](#C++)
+
+## C/C++
+
 ## JavaScript
-* [JavaScript](#JavaScript)
+
 ## Dart
-* [Dart](#Dart)
+
 ## Data Analysis
-* [Data Analysis](#data_analisys)
-## ML & DL
-* [Machine Learning](#)
+
+## Machine Learning and Deep Learning
+
 ## Linux
-8. [Linux](#DLinux)
-
-
-## Example
-* ML
-## Example2
-## Third Example
