@@ -3,7 +3,7 @@
 * [Python](#py)
 ## [Java](#java)
 * [Java](#jav)
-## [C++](#c++)
+## [C/C++](#cc)
 * [C++](#cp)
 ## [JavaScript](#javascript)
 * [JavaScript](#js)
