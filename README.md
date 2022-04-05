@@ -17,7 +17,7 @@
 * JavaScript
   * [Curso Básico de JavaScript](https://platzi.com/p/bentobenack/curso/1814-basico-javascript/diploma/detalle/)
   * [Fundamentos de JavaScript](https://platzi.com/p/bentobenack/curso/1339-fundamentos-javascript-2018/diploma/detalle/)
- * R
+* R
   * [Curso de Fundamentos de R](https://platzi.com/p/bentobenack/curso/1445-fundamentos-r/diploma/detalle/)
 * Dart
   * [Curso de Dart](https://platzi.com/p/bentobenack/curso/1502-dart-2019/diploma/detalle/)
