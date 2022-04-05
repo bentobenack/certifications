@@ -2,7 +2,7 @@
 * [Python](#python)
   * [Python](https://drive.google.com/file/d/1KWI5b35ep0Vzgky4nL7FfuGwvxgP9Wnw/view?usp=sharing){:target="\_blank"}
 * [Java](#java)
-  * <a href="http://google.com" target="_blank">Java</a>
+  * <a href="https://google.com" target="\_blank">Java</a>
 * [C/C++](#cc)
   * [C++](#cp)
 * [JavaScript](#javascript)
