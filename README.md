@@ -1,5 +1,5 @@
 # List of Certifications
-## Python
+## [Python](#py)
 * [Python](#Python)
 ## Java
 * [Java](#Java)
@@ -12,7 +12,7 @@
 ## Data Analysis
 * [Data Analysis](#data_analisys)
 ## ML & DL
-* [ml](#Machine Learning)
+* [Machine Learning](#)
 ## Linux
 8. [Linux](#DLinux)
 
