@@ -1,9 +1,14 @@
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
+# List of Certifications
+1. [Python](#Python)
+2. [Java](#Java)
+3. [C++](#C++)
+4. [JavaScript](#JavaScript)
+5. [Dart](#Dart)
+6. [Machine Learning](#Machine Learning)
+7. [Linux](#DLinux)
+8. [Third Example](#third-example)
 
 ## Example
+* ML
 ## Example2
 ## Third Example
