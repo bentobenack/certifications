@@ -1,8 +1,8 @@
 # List of Certifications
 * [Python](#python)
-  * [Python](#py)
-## [Java](#java)
-* [Java](#jav)
+ * [Python](#py)
+* [Java](#java)
+ * [Java](#jav)
 ## [C/C++](#cc)
 * [C++](#cp)
 ## [JavaScript](#javascript)
