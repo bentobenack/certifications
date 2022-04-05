@@ -1,6 +1,6 @@
 # List of Certifications
 * [Python](#python)
-  * [Python](https://drive.google.com/file/d/1KWI5b35ep0Vzgky4nL7FfuGwvxgP9Wnw/view?usp=sharing)
+  * [Python](https://drive.google.com/file/d/1KWI5b35ep0Vzgky4nL7FfuGwvxgP9Wnw/view?usp=sharing){:target="\_blank"}
 * [Java](#java)
   * <a href="google.com" target="_blank" rel=" noopener noreferrer">Java</a>
 * [C/C++](#cc)
