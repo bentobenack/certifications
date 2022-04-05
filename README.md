@@ -1,6 +1,6 @@
 # List of Certifications
 * [Python](#python)
-  * [Python](#py)
+  * [Python](#https://drive.google.com/file/d/1KWI5b35ep0Vzgky4nL7FfuGwvxgP9Wnw/view?usp=sharing)
 * [Java](#java)
   * [Java](#jav)
 * [C/C++](#cc)
